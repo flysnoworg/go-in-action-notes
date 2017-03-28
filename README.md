@@ -9,3 +9,4 @@
 5. [《Go语言实战》笔记(五) | Go 切片](https://mp.weixin.qq.com/s?__biz=MzI3MjU4Njk3Ng==&mid=2247483742&idx=1&sn=53f46faff6eba26f0ad4f05d818f841a&scene=0#wechat_redirect)
 6. [《Go语言实战》笔记(六) | Go Map](https://mp.weixin.qq.com/s?__biz=MzI3MjU4Njk3Ng==&mid=2247483746&idx=1&sn=3be6dbb1c70d72ab363b535c9a878d12&scene=0#wechat_redirect)
 7. [《Go语言实战》笔记(七) | Go 类型](https://mp.weixin.qq.com/s?__biz=MzI3MjU4Njk3Ng==&mid=2247483751&idx=1&sn=15bf5e8ca24c565819bc07682502266f&scene=0#wechat_redirect)
+8. [《Go语言实战》笔记(八) | Go 函数方法](https://mp.weixin.qq.com/s?__biz=MzI3MjU4Njk3Ng==&mid=2247483755&idx=1&sn=78be0b9a16139938f19fef7219fb1f1d&scene=0#wechat_redirect)
