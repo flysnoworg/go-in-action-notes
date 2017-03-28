@@ -1,2 +1,11 @@
-# go-in-action-notes
-《Go语言实战》读书笔记系列合集
+#### 《Go语言实战》笔记首发于公众号`flysnow_org`,欢迎扫码关注。
+
+![扫码关注](http://www.flysnow.org/about/qrcode_for_weixin.jpg)
+
+1. [《Go语言实战》笔记(一) | Go包管理](https://mp.weixin.qq.com/s?__biz=MzI3MjU4Njk3Ng==&mid=2247483724&idx=1&sn=316639c2bba48336a8c0d9124a027086&chksm=eb3100c3dc4689d5e0a137503034d1e3b78ceb9777dd0ad7bab87ce1cceb149af853a7599958&mpshare=1&scene=1&srcid=032833V5z0r8aerJpCqoh5QK&key=d00d8310abcbc5baef0cc3bc6b44155a20c7cd2763d3e11fbedc487b7b2a197d7de229fde3534c6e7453655af84c25cb82659ae73598942b2af261859b8be56831d40dcba5c2bbd71c93ef457fb85a7a&ascene=0&uin=MTI0MDc0ODU%3D&devicetype=iMac+MacBookPro11%2C4+OSX+OSX+10.12.3&version=12020010&nettype=WIFI&fontScale=100&pass_ticket=e6H7rx6hAkTNASI73HOw0LP6CJstRcrYiKGFKzkEHJw%3D)
+2. [《Go语言实战》笔记(二) Go开发工具](https://mp.weixin.qq.com/s?__biz=MzI3MjU4Njk3Ng==&mid=2247483727&idx=1&sn=2c18e3e72cbc60a3b240ec00c66ed461&chksm=eb3100c0dc4689d609844958a5cda2eef0f2ebadcf558a0ece7094c6b527e11045e4a499a57a&mpshare=1&scene=1&srcid=0328YMr6usAeB6pLLXaM8Xe4&key=ac780f6d08d044c8e838b2415159e6843b69a157179d46942aa8e264f2b9ad269f4f962569db1f9e0a9e8ff44e3dc9f262a96b139ff9d8a8128f247dc0809c95204315e1b10177fd46559a4a6fa8ba77&ascene=0&uin=MTI0MDc0ODU%3D&devicetype=iMac+MacBookPro11%2C4+OSX+OSX+10.12.3&version=12020010&nettype=WIFI&fontScale=100&pass_ticket=e6H7rx6hAkTNASI73HOw0LP6CJstRcrYiKGFKzkEHJw%3D)
+3. [《Go语言实战》笔记(三) | Go Doc 文档](https://mp.weixin.qq.com/s?__biz=MzI3MjU4Njk3Ng==&mid=2247483731&idx=1&sn=9037f33d7b0e359cda1777cc57c8ec8e&chksm=eb3100dcdc4689ca76914c19d543dfdf7991fdea6939c740d1d474d301124232621591b3263c&mpshare=1&scene=1&srcid=0328ZR8BslbMy2ITHyKW0t8u&key=7f13a640df87a4d3a45ee1cdfd713515a4c32b57561f516f3ff9b00659fcd3f060eaab333654707c9e6d2843f635f06f6911c7eace6f5df080a5561a273095cd5b218b9135b263815162d9c8dbfbf482&ascene=0&uin=MTI0MDc0ODU%3D&devicetype=iMac+MacBookPro11%2C4+OSX+OSX+10.12.3&version=12020010&nettype=WIFI&fontScale=100&pass_ticket=e6H7rx6hAkTNASI73HOw0LP6CJstRcrYiKGFKzkEHJw%3D)
+4. [《Go语言实战》笔记(四) | Go 数组](https://mp.weixin.qq.com/s?__biz=MzI3MjU4Njk3Ng==&mid=2247483737&idx=1&sn=589aa0bf65ce021d0c1ce78b84711a7f&scene=0#wechat_redirect)
+5. [《Go语言实战》笔记(五) | Go 切片](https://mp.weixin.qq.com/s?__biz=MzI3MjU4Njk3Ng==&mid=2247483742&idx=1&sn=53f46faff6eba26f0ad4f05d818f841a&scene=0#wechat_redirect)
+6. [《Go语言实战》笔记(六) | Go Map](https://mp.weixin.qq.com/s?__biz=MzI3MjU4Njk3Ng==&mid=2247483746&idx=1&sn=3be6dbb1c70d72ab363b535c9a878d12&scene=0#wechat_redirect)
+7. [《Go语言实战》笔记(七) | Go 类型](https://mp.weixin.qq.com/s?__biz=MzI3MjU4Njk3Ng==&mid=2247483751&idx=1&sn=15bf5e8ca24c565819bc07682502266f&scene=0#wechat_redirect)
