@@ -1,6 +1,6 @@
 #### 《Go语言实战》笔记首发于公众号`flysnow_org`,欢迎扫码关注。
 
-![扫码关注](http://www.flysnow.org/about/qrcode_for_weixin.jpg)
+![扫码关注](https://www.flysnow.org/about/qrcode_for_weixin.jpg)
 
 ## Go语言实战笔记
 
