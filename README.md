@@ -2,6 +2,16 @@
 
 ![扫码关注](https://www.flysnow.org/about/qrcode_for_weixin.jpg)
 
+## Golang Gin 实战系列
+
+1. [Golang Gin 实战（一）| 快速安装入门](https://mp.weixin.qq.com/s/Ky5i7rc72s77VOE3LLiQOA)
+2. [Golang Gin 实战（二）| 简便的Restful API 实现](https://mp.weixin.qq.com/s/Diue8kQW4L1LpUomfJi73g)
+3. [Golang Gin 实战（三）| 路由参数](https://mp.weixin.qq.com/s/lKluqcdkwK6IA3Qp9hgwgw)
+4. [Golang Gin 实战（四）| URL查询参数的获取和原理分析](https://mp.weixin.qq.com/s/y0KhI0BezsQ2MF1z-FBtVA)
+5. [Golang Gin 实战（五）| 接收数组和 Map](https://mp.weixin.qq.com/s/u4R5MZABcy-231g4_HDrdg)
+6. [Golang Gin 实战（六）| 获取Form表单参数和原理分析](https://mp.weixin.qq.com/s/Eb1r48h3pcIw_aa3_bLhuQ)
+7. 扫码关注公众号，第一时间看最新系列文章
+
 ## Go语言实战笔记
 
 1. [Go语言环境搭建详解](http://www.flysnow.org/2017/01/05/install-golang.html) 
